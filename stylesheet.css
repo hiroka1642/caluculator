@@ -46,13 +46,16 @@ input{
   margin: 2px;
   cursor: pointer;
   outline: none;
+  color: rgb(41, 41, 41);
 }
 
 input:hover{
   background-color: rgb(244, 233, 255);
 }
 input:active{
-  background-color: blueviolet;
+  background-color:  rgba(202, 146, 255, 0.836);
+  color: aliceblue;
+
 }
 
 #ca{
