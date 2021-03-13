@@ -67,7 +67,7 @@
 
   //CAを押した場合
   ca.addEventListener('click',()=>{
-    OperatorNum=0;
+    OperatorNum=undefined;
     textlength=0;
     LastNumber=0;
     Result=0;
